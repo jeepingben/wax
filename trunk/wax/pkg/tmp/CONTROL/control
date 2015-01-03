@@ -1,0 +1,10 @@
+Package: waxChooser
+Version: 0.9
+Description: A utility to display the suggested ski wax for the given conditions
+Architecture: all
+Section: openmoko/applications
+Priority: optional
+Maintainer: Ben Deering <waxChooserMaintainer@swissmail.org>
+Homepage: http://jeepingben.net/waxChooser/
+Depends: python-elementary, python-pygobject, python-sqlite3, python-threading, sqlite3
+Source: svn://jeepingben.homelinux.net/svnrepo/waxChooser

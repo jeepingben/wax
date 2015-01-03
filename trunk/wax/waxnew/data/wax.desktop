@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Wax Chooser
+
+Exec=waxChooser
+Icon=waxChooser
+Terminal=false
+Type=Application
+Categories=GTK;Application;Office
+StartupNotify=true
+SingleInstance=true
+Comment=Choose the appropriate nordic ski grip wax for the conditions. 

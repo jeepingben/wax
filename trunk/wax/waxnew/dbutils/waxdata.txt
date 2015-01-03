@@ -1,0 +1,302 @@
+#############################################################
+#Ski Wax List
+#
+############################################################
+#
+Wax
+Brand	Swix
+Name	V05 Polar
+Color	White
+New	-12	-25
+Transformed	-15	-30
+Picture	v0005.png
+Klister	No
+############################################################
+Wax
+Brand	Swix
+Name	V30 Blue
+Color	Blue
+New	-2	-10
+Transformed	-5	-15
+Picture	v0030.png
+Klister	No
+############################################################
+Wax
+Brand	Swix
+Name	V20 Green
+Color	Green
+New	-8	-15
+Transformed	-10	-18
+Picture	v0020.png
+Klister	No
+###########################################################
+Wax
+Brand	Swix
+Name	V40 Blue Extra
+Color	Blue
+New	-1	-7
+Transformed	-3	-10
+Picture	v0040.png
+Klister	No
+###########################################################
+Wax
+Brand	Swix
+Name	V50 Violet
+Color	Violet
+New	0	0
+Transformed	-1	-3
+Picture	v0050.png
+Klister	No
+###########################################################
+Wax
+Brand	Swix
+Name	V45 Violet Special
+Color	Violet
+New	0	-3
+Transformed	-2	-6
+Picture	v0045.png
+Klister	No
+##########################################################
+Wax
+Brand	Swix
+Name	V55 Red Special
+Color	Red
+New	1	0
+Transformed	0	-2
+Picture	v0055.png
+Klister	No
+###########################################################
+Wax
+Brand	Swix
+Name	V60 Red Silver
+Color	Red
+New	3	0
+Transformed	1	-1
+Picture	v0060.png
+Klister	No
+##########################################################
+Wax
+Brand	Swix
+Name	K22n Universal Klister
+Color	White
+New	10	-3
+Transformed	10	-3
+Picture	k0022n.png
+Klister	Yes
+##########################################################
+Wax
+Brand	Swix
+Name	K21n Universal Klister
+Color	Silver
+New	3	-5
+Transformed	3	-5
+Picture	k0021n.png
+Klister Yes
+##########################################################
+Wax
+Brand	Swix
+Name	KR30 Klister Blue
+Color	Blue
+New	0	-15
+Transformed	0	-15
+Picture	kr030.png
+Klister Yes
+##########################################################
+Wax
+Brand	Swix
+Name	KR40 Klister Blue/Violet
+Color	Blue/Violet
+New	2	-7
+Transformed	2	-7
+Picture	kr040.png
+Klister Yes
+##########################################################
+Wax
+Brand	Swix
+Name	KR50 Klister Violet
+Color	Violet
+New	3	-4
+Transformed	3	-4
+Picture	kr050.png
+Klister Yes
+##########################################################
+Wax
+Brand	Swix
+Name	KR60 Klister Red
+Color	Red
+New	5	0
+Transformed	5	0
+Picture	kr060.png
+Klister Yes
+##########################################################
+Wax
+Brand	Swix
+Name	KR70 Aqua Red
+Color	Red
+New	12	2
+Transformed	12	2
+Picture	kr070.png
+Klister Yes
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Silver
+Color	Silver
+New	0	4
+Transformed	0	4	
+Picture	Gsilver.png
+Klister	No
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Yellow
+Color	Yellow
+New	0	-1
+Transformed	0	-1
+Picture	Gyellow.png
+Klister	No
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Red
+Color	Red
+New	-1	-2
+Transformed	-1	-2
+Picture	Gred.png
+Klister	No
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Viola
+Color	Violet
+New	-2	-4
+Transformed	-2	-4
+Picture	Gviola.png
+Klister	No
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Blue
+Color	Blue
+New	-4	-10
+Transformed	-4	-10
+Picture	Gblue.png
+Klister	No
+############################################################
+Wax
+Brand	Toko
+Name	Carbon White
+Color	White
+New	-7	-13
+Transformed	-7	-13
+Picture	Gwhite.png
+Klister	No
+############################################################
+Wax
+Brand	Toko
+Name	Carbon Mint
+Color	Green
+New	-10	-15
+Transformed	-10	-15
+Picture	Gmint.png
+Klister	No
+#############################################################
+Wax
+Brand	Toko
+Name	BaseWax/Green
+Color	Green
+New	-15	-40
+Transformed	-15	-40
+Picture	Gbase.png
+Klister	No
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Klister Silver
+Color	Silver
+New	8	0
+Transformed	8	0
+Picture	Ksilver.png
+Klister	Yes
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Klister Orange
+Color	Orange
+New	0	-2
+Transformed	0	-2
+Picture	Korange.png
+Klister	Yes
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Klister MultiViola
+Color	Violet
+New	-1	-8
+Transformed	-1	-8
+Picture	Kmviola.png
+Klister	Yes
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Klister Viola
+Color	Violet
+New	-6	-18
+Transformed	-6	-18
+Picture	Kviola.png
+Klister	Yes
+###########################################################
+Wax
+Brand	Toko
+Name	Carbon Klister Green/Base
+Color	Green
+New	-16	-40
+Transformed	-16	-40
+Picture	Kgreen.png
+Klister	Yes 
+############################################################
+Wax
+Brand	Toko_SportLine
+Name	Extra Cold
+Color	Blue
+New	-6	-12
+Transformed	-6	-12
+Picture	SLxcold.png
+Klister	No
+###########################################################
+Wax
+Brand	Toko_SportLine
+Name	Cold
+Color	Teal
+New	-2	-6
+Transformed	-2	-6
+Picture	SLcold.png
+Klister	No
+############################################################
+Wax
+Brand	Toko_SportLine
+Name	Warm
+Color	Red
+New	4	-2
+Transformed	4	-2
+Picture	SLwarm.png
+Klister	No
+###########################################################
+Wax
+Brand	Toko_SportLine
+Name	Warm Klister
+Color	Red
+New	10	-3
+Transformed	10	-3
+Picture	to_sl_klisterwarm.png
+Klister	Yes
+##########################################################
+Wax
+Brand	Toko_SportLine
+Name	Cold Klister
+Color	Blue
+New	-3	-12
+Transformed	-3	-12
+Picture	to_sl_klistercold.png
+Klister	Yes
+########################################################
