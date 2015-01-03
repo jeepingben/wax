@@ -1,0 +1,10 @@
+Python Elementary Ski Wax Chooser
+
+This program is a rewrite of a utility I originally wrote for my Motorolla v551 (http://sourceforge.net/projects/j2me-ski-waxer/).  The user enters the current temperature, humidity, and snow condition.  The program then provides a suggestion for which nordic kick wax to use.  
+
+The wax database currently includes Swix, Toko, and Toko Sportline waxes.  The script in the dbutils directory allows you to add additional waxes and brands.  Edit the waxdata.txt file, or create a new text file in the format used by waxdata.txt then run the script to create a new db.  You can add the pictures you want displayed to the images folder.
+
+The program assumes that a wax works best in the middle of its temperature rangeand chooses the wax which has an average closest to the currect temperature.  The program will suggest klister if the snow is corn or ice.  It will suggest a warmer wax if the humidity is set to high.
+
+There is nothing I know of that would prevent this program for working with glide wax as well as kick wax.  I hope to make some gui changes to better support glide wax.  
+
